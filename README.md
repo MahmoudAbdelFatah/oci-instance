@@ -53,3 +53,7 @@ $ terraform init
 ```
 $ terraform apply --var-file dev.tfvars
 ```
+
+### That is the running instance
+
+![image-1](/images/image-3.png "This is a sample image.")
