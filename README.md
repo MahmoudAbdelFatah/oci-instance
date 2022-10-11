@@ -22,9 +22,13 @@ $ oci set config
 ## Add the API key to the user
 - Open user details display page
 - Open API keys under resources
+
+![image-1](/image/image-1.png "This is a sample image.")
+
 - Add API key
 - Paste the public key 
 
+![image-2](/image/image-2.png "This is a sample image.")
 
 #### Create Child `instance` Compartment to contain my instance and take the `ocid` to be used as a `compartment_ocid`
 #### Get the `image_ocid` from this [link](https://docs.oracle.com/en-us/iaas/images/image/329613dc-e938-4f75-b2fd-afce244d6514/), I used the `Canonical-Ubuntu-22.04-Minimal-2022.08.16-0` image.
